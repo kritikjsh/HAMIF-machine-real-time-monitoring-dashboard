@@ -1,3 +1,5 @@
 # HAMIF-machine-real-time-monitoring-dashboard
 
 Utilizing Python for data preprocessing, we cleaned and filtered raw data sourced from a dynamometer sensor, removing noise to ensure accuracy. Leveraging MySQL Server, we processed the refined data, optimizing it for storage and retrieval. With SQL Server Management Studio, we managed database operations efficiently. Power BI was employed to craft interactive, business-intelligent dashboards for comprehensive machine monitoring. Additionally, real-time monitoring capabilities were implemented, enabling instant insights into machine performance. Through seamless integration of Python, MySQL, SQL Server Management Studio, and Power BI,this project delivers a robust solution for real-time monitoring and analysis of HAMIF machines, facilitating informed decision-making and enhancing operational efficiency.
+
+Developed a mobile-based AR application using Unity and Vuforia (C#) that leverages image-target tracking to detect machine components via a smartphone camera and display contextual information. The system improves operator interaction and reduces training effort by providing an intuitive, visual interface.
